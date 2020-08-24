@@ -11,7 +11,7 @@ https://miso-4208-angela-taller-1.web.app/
 ### 2.1 Reporte de Lighthouse antes de implementar funcionalidades.
 A continuación, se muestran las imágenes del reporte creado por Lighthouse antes de hacerle alguna modificación al código
 
-#### Aplicación funcionando: 
+#### Aplicación funcionando antes de hacerle alguna modificación: 
 ![](https://github.com/amsuarezp18/MISO4208_PWA_Taller_uno/blob/master/support/Screenshot%20from%202020-08-19%2021-09-38.png)
 ***
 #### Reporte de Lighthouse, vista general
